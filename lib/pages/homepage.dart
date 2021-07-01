@@ -5,11 +5,11 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('The main APPBAR'),
+        title: Text('           Catalog APP'),
       ),
       body: Center(
         child: Container(
-          child: Text('Welcome to hell'),
+          child: Text('Welcome to the darkness'),
         ),
       ),
       drawer: Drawer(),
